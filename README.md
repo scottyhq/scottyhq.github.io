@@ -1,6 +1,6 @@
 My Website
 ==========
 
-Acess is it with the following url:
+Access it with the following URL:
 
 [http://scottyhq.github.io](http://scottyhq.github.io)
