@@ -49,9 +49,13 @@ LOAD_CONTENT_CACHE = False
 LINKS = (('eScience Institute', 'http://escience.washington.edu'),
         ('UW ESS', 'http://www.ess.washington.edu'),
         ('UniAndes Geociencias', 'http://geociencias.uniandes.edu.co/index.php/home'),
-        #('Smithsonian GVP', 'http://volcano.si.edu/'),
-        #('USGS VH', 'https://volcanoes.usgs.gov/index.html'),
-        #('Cornell EAS', 'http://www.eas.cornell.edu'),
+        ('Smithsonian GVP', 'http://volcano.si.edu/'),
+        ('USGS VH', 'https://volcanoes.usgs.gov/index.html'),
+        ('Cornell EAS', 'http://www.eas.cornell.edu'),
+        ('PNSN', 'https://pnsn.org'),
+        ('PANGA', 'http://www.geodesy.cwu.edu/'),
+        ('UNGL', 'http://geodesy.unr.edu/'),
+        #('UNAVCO', 'https://www.unavco.org/'),
         )
 
 # Social widget
