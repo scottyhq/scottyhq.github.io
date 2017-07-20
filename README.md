@@ -1,6 +1,2 @@
-My Website
-==========
-
-Access it with the following URL:
-
-[http://scottyhq.github.io](http://scottyhq.github.io)
+# my_pelican_website
+Personal Website Source Code
