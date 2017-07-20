@@ -2,20 +2,21 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-SITEURL = '/blog'
-OUTPUT_PATH = 'output/blog'
-PAGE_URL = '../{slug}.html'
-PAGE_SAVE_AS = '../{slug}.html'
+# To keep static homepage and blog under separate tab
+#SITEURL = '/blog'
+#OUTPUT_PATH = 'output/blog'
+#PAGE_URL = '../{slug}.html'
+#PAGE_SAVE_AS = '../{slug}.html'
 
 STATIC_PATHS = ['images', 'pdfs']
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
-MENUITEMS = [('Home', '/'), 
-             ('Research', '/research.html'),
-             ('Publications', '/publications.html'),
-             ('Teaching', '/teaching.html'),
-             ('Software', '/software.html'),
+MENUITEMS = [('Home', '/index.html'), 
+             ('Research', '/pages/research.html'),
+             ('Publications', '/pages/publications.html'),
+             ('Teaching', '/pages/teaching.html'),
+             ('Software', '/pages/software.html'),
              #('Blog', '/blog/'),
              ('Blog', 'https://scottyhq.github.io/blog'),
              ]
@@ -37,6 +38,12 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+# Disable tag -related pages for non-blog site
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = ''
+
+LOAD_CONTENT_CACHE = False
 
 # Blogroll
 LINKS = (('eScience Institute', 'http://escience.washington.edu'),

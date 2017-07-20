@@ -1,6 +1,6 @@
 Title: Welcome to my webpage!
 URL: ../
-Save_as: ../index.html
+Save_as: index.html
 
 
 
