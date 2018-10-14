@@ -1,9 +1,13 @@
 Title: Publications
 URL: ../
-Date: 2017-07-01
+Date: 2018-10-01
 Category: Research
 
+* Reath, K. et. al. (2018) **Thermal, deformation, and degassing remote sensing time- series (A.D. 2000-2017) at the 47 most active volcanoes in Latin America: Implications for volcanic systems** Journal of Geophysical Research, (accepted)
 
+* Pritchard, M.E. et. al. (2018) **Towards coordinated regional multi-satellite InSAR volcano observations: results from the Latin America pilot project**, Journal of Applied Volcanology, 7(1) , [doi:10.1186/s13617-018-0074-0](http://dx.doi.org/10.1186/s13617-018-0074-0)
+
+* Pritchard, M.E. et. al. (2018) **Synthesis: PLUTONS: Investigating the relationship between pluton growth and volcanism in the Central Andes**, Geosphere, 14(3) 954-982, [doi:10.1130/GES01578.1](http://dx.doi.org/10.1130/GES01578.1)
 
 * *Henderson, S.T.*, F. Delgado, J.E. Elliott, M.E. Pritchard, T. Lopez, (2017), **Decelerating uplift at Lazufre Volcanic Center, Central Andes, from 2010-2016, and implications for geodetic models**, Geosphere, 13(5) 1489-1505, [doi:10.1130/GES01441.1](http://dx.doi.org/doi:10.1130/GES01441.1)
 
