@@ -13,4 +13,4 @@ Office: ATG-219a
 scottyh(at)uw.edu  
 Download CV [here]({filename}/pdfs/CV_Henderson.pdf)  
 
-Last updated: July 2017
+Last updated: October, 2018
