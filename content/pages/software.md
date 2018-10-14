@@ -1,4 +1,4 @@
 Title: Software
-Date: 2017-07-01
+Date: 2018-10-01
 
-### I post all my software on [github](https://github.com/scottyhq)!
+### I post all my software on [github](https://github.com/scottyhq)

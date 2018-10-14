@@ -3,6 +3,7 @@ URL: ../
 Date: 2018-10-01
 Category: Research
 
+
 * Reath, K. et. al. (2018) **Thermal, deformation, and degassing remote sensing time- series (A.D. 2000-2017) at the 47 most active volcanoes in Latin America: Implications for volcanic systems** Journal of Geophysical Research, (accepted)
 
 * Pritchard, M.E. et. al. (2018) **Towards coordinated regional multi-satellite InSAR volcano observations: results from the Latin America pilot project**, Journal of Applied Volcanology, 7(1) , [doi:10.1186/s13617-018-0074-0](http://dx.doi.org/10.1186/s13617-018-0074-0)

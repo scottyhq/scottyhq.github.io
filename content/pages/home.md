@@ -3,9 +3,6 @@ URL: ../
 Save_as: index.html
 
 
-
-#### Here you will find information about my current and past research projects, and many links.
-
 ![My website mugshot]({filename}/images/myphoto.png)
 
 Scott Henderson  
