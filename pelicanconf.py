@@ -8,11 +8,9 @@ from __future__ import unicode_literals
 #PAGE_URL = '../{slug}.html'
 #PAGE_SAVE_AS = '../{slug}.html'
 
-STATIC_PATHS = ['images', 'pdfs', 'extra']
+STATIC_PATHS = ['images', 'pdfs', 'extra/favicon.ico']
 
-EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'},
-}
+EXTRA_PATH_METADATA = {'extra/favicon.ico': {'path': 'favicon.ico'},}
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
