@@ -61,6 +61,7 @@ LINKS = (('UW eScience Institute', 'http://escience.washington.edu'),
         ('UNevada Geodetic Lab', 'http://geodesy.unr.edu/'),
         ('Alaska Satellite Facility', 'https://www.asf.alaska.edu'),
         #('UNAVCO', 'https://www.unavco.org/'),
+        ('Pelican Website Builder', 'http://docs.getpelican.com/en/stable'),
         )
 
 # Social widget
