@@ -4,7 +4,7 @@ Date: 2018-10-01
 
 # Geohackweek
 
-I help organize the annual ["Geohackweek"](https://geohackweek.github.io) at the University of Washington. It is a fantastic one week participant-driven event with the goal of learning the latest open source software tools availble to geoscientists.
+I help organize the annual ["Geohackweek"](https://geohackweek.github.io) at the University of Washington. It is a fantastic one week participant-driven event with the goal of learning the latest open source software tools available to geoscientists.
 
 # Geodynamics
 

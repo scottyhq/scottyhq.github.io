@@ -3,14 +3,15 @@ URL: ../
 Save_as: index.html
 
 
-![My website mugshot]({filename}/images/myphoto.png)
+!["photo"]({filename}/images/myphoto.png){: align=left }
 
-Scott Henderson  
-eScience Postdoctoral Fellow  
-Earth & Space Sciences  
-University of Washington  
-Office: ATG-219a  
-scottyh(at)uw.edu  
-Download CV [here]({filename}/pdfs/CV_Henderson.pdf)  
+&nbsp; Scott Henderson   
+&nbsp; eScience Postdoctoral Fellow   
+&nbsp; Earth & Space Sciences   
+&nbsp; University of Washington   
+&nbsp; Office: ATG-219a   
+&nbsp; scottyh(at)uw.edu   
 
-Last updated: October, 2018
+&nbsp; Download CV [here]({filename}/pdfs/CV_Henderson.pdf)  
+
+&nbsp; Last updated: October, 2018
