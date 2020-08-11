@@ -8,7 +8,7 @@ I help organize the annual ["Geohackweek"](https://geohackweek.github.io) at the
 
 # Geodynamics
 
-Taught in 2016 at [Universidad de los Andes](http://geociencias.uniandes.edu.co), Bogota, Colombia. Most homework assignments were done as Jupyter Notebooks, made available [here](add link).
+Taught in 2016 at [Universidad de los Andes](https://geociencias.uniandes.edu.co), Bogota, Colombia. Most homework assignments were done as Jupyter Notebooks, made available [here](add link).
 
 # InSAR short course
 

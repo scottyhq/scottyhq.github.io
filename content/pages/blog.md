@@ -6,4 +6,4 @@ Date: 2018-10-10
 
 
 ### I keep an old programming blog here that no longer gets updated:
-[http://scottyhq.github.io/blog](http://scottyhq.github.io/blog)
+[https://scottyhq.github.io/blog](https://scottyhq.github.io/blog)

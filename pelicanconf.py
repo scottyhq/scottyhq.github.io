@@ -48,32 +48,35 @@ TAG_SAVE_AS = ''
 LOAD_CONTENT_CACHE = False
 
 # Blogroll
-LINKS = (('UW eScience Institute', 'http://escience.washington.edu'),
-        ('UW Earth & Space Sciences', 'http://www.ess.washington.edu'),
-        ('UniAndes Geociencias', 'http://geociencias.uniandes.edu.co/index.php/home'),
-        ('Pangeo Project', 'http://pangeo.io'),
+LINKS = (('UW eScience Institute', 'https://escience.washington.edu'),
+        ('UW Earth & Space Sciences', 'https://www.ess.washington.edu'),
+        ('UniAndes Geociencias', 'https://geociencias.uniandes.edu.co/index.php/home'),
+        ('Pangeo Project', 'https://pangeo.io'),
         ('Pangeo Blog', 'https://medium.com/pangeo'),
-        #('Smithsonian GVP', 'http://volcano.si.edu/'),
+        #('Smithsonian GVP', 'https://volcano.si.edu/'),
         #('USGS VH', 'https://volcanoes.usgs.gov/index.html'),
-        #('Cornell EAS', 'http://www.eas.cornell.edu'),
+        #('Cornell EAS', 'https://www.eas.cornell.edu'),
         ('PNW Seismic Network', 'https://pnsn.org'),
-        #('PANGA', 'http://www.geodesy.cwu.edu/'),
-        ('UNevada Geodetic Lab', 'http://geodesy.unr.edu/'),
+        #('PANGA', 'https://www.geodesy.cwu.edu/'),
+        ('UNevada Geodetic Lab', 'https://geodesy.unr.edu/'),
         ('Alaska Satellite Facility', 'https://www.asf.alaska.edu'),
         #('UNAVCO', 'https://www.unavco.org/'),
-        ('Pelican Website Builder', 'http://docs.getpelican.com/en/stable'),
+        ('Pelican Website Builder', 'https://docs.getpelican.com/en/stable'),
         )
 
 # Social widget
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/scottyhq'),
           ('Twitter', 'https://twitter.com/scotty_h_q'),
-          ('LinkedIn', 'https://www.linkedin.com/in/scott-henderson-1a5666b4'),)
+#          ('LinkedIn', 'https://www.linkedin.com/in/scott-henderson-1a5666b4'),
+         )
 
 #DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+THEME = "notmyidea"
 
 MARKDOWN = {
     'extension_configs': {

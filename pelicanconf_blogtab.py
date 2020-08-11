@@ -46,12 +46,12 @@ TAG_SAVE_AS = ''
 LOAD_CONTENT_CACHE = False
 
 # Blogroll
-LINKS = (('eScience Institute', 'http://escience.washington.edu'),
-        ('UW ESS', 'http://www.ess.washington.edu'),
-        ('UniAndes Geociencias', 'http://geociencias.uniandes.edu.co/index.php/home'),
-        #('Smithsonian GVP', 'http://volcano.si.edu/'),
+LINKS = (('eScience Institute', 'https://escience.washington.edu'),
+        ('UW ESS', 'https://www.ess.washington.edu'),
+        ('UniAndes Geociencias', 'https://geociencias.uniandes.edu.co/index.php/home'),
+        #('Smithsonian GVP', 'https://volcano.si.edu/'),
         #('USGS VH', 'https://volcanoes.usgs.gov/index.html'),
-        #('Cornell EAS', 'http://www.eas.cornell.edu'),
+        #('Cornell EAS', 'https://www.eas.cornell.edu'),
         )
 
 # Social widget
