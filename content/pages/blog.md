@@ -1,8 +1,8 @@
 Title: Blog
-Date: 2018-10-10
+Date: 2020-08-11
 
 ### I write some occasional blog posts, most recently on Medium:
-[https://medium.com/@scottyh](https://medium.com/@scottyh)
+[https://medium.com/@scottyh](https://medium.com/@scottyhq)
 
 
 ### I keep an old programming blog here that no longer gets updated:
