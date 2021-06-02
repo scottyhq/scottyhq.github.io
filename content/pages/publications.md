@@ -1,9 +1,11 @@
 Title: Publications
 URL: ../
-Date: 2020-08-11
+Date: 2021-06-03
 Category: Research
 
 This is a chronological list of published peer-reviewed journal articles I've either authored or co-authored:
+
+* Bhushan, S. et. al. (2020) Automated digital elevation model (DEM) generation from very-high-resolution Planet SkySat triplet stereo and video imagery ISPRS Journal of Photogrammetry and Remote Sensing. [doi:10.1016/j.isprsjprs.2020.12.012](https://doi.org/10.1016/j.isprsjprs.2020.12.012)
 
 * *Henderson, S. T.*, et al. (2019) *Remotely sensed deformation and thermal anomalies at Mount Pagan, Mariana Islands*, Frontiers in Earth Science 7: 238. [doi:10.3389/feart.2019.00238](https://doi.org/10.3389/feart.2019.00238)
 
