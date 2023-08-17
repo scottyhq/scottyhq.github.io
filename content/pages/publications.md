@@ -1,9 +1,19 @@
 Title: Publications
 URL: ../
-Date: 2021-06-03
+Date: 2023-08-15
 Category: Research
 
 This is a chronological list of published peer-reviewed journal articles I've either authored or co-authored:
+
+* Krauss, Z. et. al. (In Press) Seismology in the cloud for template matching and machine-learning earthquake detection. Seismica.
+
+* Decter-Frain, A. et. al. (In Press) Comparing Methods for Estimating Demographics in Racially Polarized Voting Analyses. Sociological Methods and Research.
+
+* Eiden, E. et. al (2023) Multiple spatial and temporal scales of deformation from geodetic monitoring point to active transcrustal magma system at Uturuncu volcano, Bolivia. Geosphere (2023) 19 (2): 370–382. https://doi.org/10.1130/GES02520.1 
+
+* Shean et al., (2023). SlideRule: Enabling rapid, scalable, open science for the NASA ICESat-2 mission and beyond. Journal of Open Source Software, 8(81), 4982, https://doi.org/10.21105/joss.04982  
+
+* Bhushan, S. et. al. (2020) Automated digital elevation model (DEM) generation from very-high-resolution Planet SkySat triplet stereo and video imagery ISPRS Journal of Photogrammetry and Remote Sensing. [doi:10.1016/j.isprsjprs.2020.12.012](https://doi.org/10.1016/j.isprsjprs.2020.12.012)
 
 * Bhushan, S. et. al. (2020) Automated digital elevation model (DEM) generation from very-high-resolution Planet SkySat triplet stereo and video imagery ISPRS Journal of Photogrammetry and Remote Sensing. [doi:10.1016/j.isprsjprs.2020.12.012](https://doi.org/10.1016/j.isprsjprs.2020.12.012)
 
