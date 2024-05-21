@@ -5,6 +5,10 @@ Category: Research
 
 This is a chronological list of published peer-reviewed journal articles I've either authored or co-authored:
 
+* Angarita M. et. al. (2024) Versatile modeling of deformation (VMOD) inversion framework: Application to 20 years of deformation at Westdahl Volcano and Fisher Caldera, Alaska. Geochemistry, Geophysics, Geosystems. [doi:10.1029/2023GC011341](https://doi.org/10.1029/2023GC011341)
+
+* Cheng, W. et. al. (2024) Machine learning based lightning parameterizations for CONUS. Artificial Intelligence for the Earth Systems. [doi:10.1175/AIES-D-23-0024.1](https://doi.org/10.1175/AIES-D-23-0024.1)
+
 * Gagliano, E. et. al (2023) Capturing the Onset of Mountain Snowmelt Runoff Using Satellite Synthetic Aperture Radar. Geophysical Research Letters. [doi:10.1029/2023GL105303](https://doi.org/10.1029/2023GL105303)
 
 * Krauss, Z. et. al. (2023) Seismology in the cloud for template matching and machine-learning earthquake detection. Seismica. [doi:10.26443/seismica.v2i2.979](http://dx.doi.org/10.26443/seismica.v2i2.979)
