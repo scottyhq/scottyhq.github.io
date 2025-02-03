@@ -1,9 +1,13 @@
 Title: Publications
 URL: ../
-Date: 2023-11-02
+Date: 2025-02-03
 Category: Research
 
 This is a chronological list of published peer-reviewed journal articles I've either authored or co-authored:
+
+* Brencher, G. et. al. (In Review) Quantifying degradation of the Imja Lake moraine dam with fused InSAR and SAR feature tracking time series. The Cryosphere. https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3196/
+
+* Brencher, G. et. al. (2024) Removing Atmospheric Noise from InSAR Interferograms in Mountainous Regions with a Convolutional Neural Network. Computers and Geosciences. [10.1016/j.cageo.2024.105771](https://doi.org/10.1016/j.cageo.2024.105771)
 
 * Angarita M. et. al. (2024) Versatile modeling of deformation (VMOD) inversion framework: Application to 20 years of deformation at Westdahl Volcano and Fisher Caldera, Alaska. Geochemistry, Geophysics, Geosystems. [doi:10.1029/2023GC011341](https://doi.org/10.1029/2023GC011341)
 
@@ -13,11 +17,11 @@ This is a chronological list of published peer-reviewed journal articles I've ei
 
 * Krauss, Z. et. al. (2023) Seismology in the cloud for template matching and machine-learning earthquake detection. Seismica. [doi:10.26443/seismica.v2i2.979](http://dx.doi.org/10.26443/seismica.v2i2.979)
 
-* Decter-Frain, A. et. al. (In Press) Comparing Methods for Estimating Demographics in Racially Polarized Voting Analyses. Sociological Methods and Research. [doi:10.1177/00491241231192383]([https://doi.org/10.1177/00491241231192383) 
+* Decter-Frain, A. et. al. (In Press) Comparing Methods for Estimating Demographics in Racially Polarized Voting Analyses. Sociological Methods and Research. [doi:10.1177/00491241231192383]([https://doi.org/10.1177/00491241231192383)
 
-* Eiden, E. et. al (2023) Multiple spatial and temporal scales of deformation from geodetic monitoring point to active transcrustal magma system at Uturuncu volcano, Bolivia. Geosphere (2023) 19 (2): 370–382. [doi:10.1130/GES02520.1](https://doi.org/10.1130/GES02520.1) 
+* Eiden, E. et. al (2023) Multiple spatial and temporal scales of deformation from geodetic monitoring point to active transcrustal magma system at Uturuncu volcano, Bolivia. Geosphere (2023) 19 (2): 370–382. [doi:10.1130/GES02520.1](https://doi.org/10.1130/GES02520.1)
 
-* Shean et al., (2023). SlideRule: Enabling rapid, scalable, open science for the NASA ICESat-2 mission and beyond. Journal of Open Source Software, 8(81), 4982, https://doi.org/10.21105/joss.04982  
+* Shean et al., (2023). SlideRule: Enabling rapid, scalable, open science for the NASA ICESat-2 mission and beyond. Journal of Open Source Software, 8(81), 4982, https://doi.org/10.21105/joss.04982
 
 * Bhushan, S. et. al. (2020) Automated digital elevation model (DEM) generation from very-high-resolution Planet SkySat triplet stereo and video imagery ISPRS Journal of Photogrammetry and Remote Sensing. [doi:10.1016/j.isprsjprs.2020.12.012](https://doi.org/10.1016/j.isprsjprs.2020.12.012)
 
