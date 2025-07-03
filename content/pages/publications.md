@@ -1,9 +1,13 @@
 Title: Publications
 URL: ../
-Date: 2025-02-03
+Date: 2025-07-03
 Category: Research
 
 This is a chronological list of published peer-reviewed journal articles I've either authored or co-authored:
+
+* Aránguiz-Rago, T. F., Duvall, A. R., Crowell, B. W., Henderson, S. T., & Schmidt, D. A. (2025). Slow strike-slip faulting in a hyper-arid landscape: Assessing the geomorphic response to the Salar Grande Fault, Atacama Desert, Chile. Journal of Geophysical Research: Earth Surface, 130, e2024JF008018. https://doi.org/10.1029/2024JF008018
+
+* Marshall E., Cherian D., Henderson S., Scheick S., Forster, R. (2025). Cloud-native geospatial datacube workflows with open-source tools. Journal of Open Source Education. https://zenodo.org/records/15788188
 
 * Brencher, G. et. al. (In Review) Quantifying degradation of the Imja Lake moraine dam with fused InSAR and SAR feature tracking time series. The Cryosphere. https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3196/
 
