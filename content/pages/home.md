@@ -13,4 +13,4 @@ University of Washington
 Office: JHN-251
 scottyh(at)uw.edu
 
-Last updated: January, 2025
+Last updated: July, 2025
