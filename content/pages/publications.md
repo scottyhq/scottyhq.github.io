@@ -1,15 +1,15 @@
 Title: Publications
 URL: ../
-Date: 2025-07-03
+Date: 2026-01-07
 Category: Research
 
 This is a chronological list of published peer-reviewed journal articles I've either authored or co-authored:
 
+* Brencher, G., Henderson, S. T., and Shean, D. E. (2026): Quantifying degradation of the Imja Lake moraine dam with fused InSAR and SAR feature tracking time series, The Cryosphere, 20, 67–86,[https://doi.org/10.5194/tc-20-67-2026/](https://doi.org/10.5194/tc-20-67-2026)
+
 * Aránguiz-Rago, T. F., Duvall, A. R., Crowell, B. W., Henderson, S. T., & Schmidt, D. A. (2025). Slow strike-slip faulting in a hyper-arid landscape: Assessing the geomorphic response to the Salar Grande Fault, Atacama Desert, Chile. Journal of Geophysical Research: Earth Surface, 130, e2024JF008018. [https://doi.org/10.1029/2024JF008018](https://doi.org/10.1029/2024JF008018)
 
 * Marshall E., Cherian D., Henderson S., Scheick S., Forster, R. (2025). Cloud-native geospatial datacube workflows with open-source tools. Journal of Open Source Education. [https://zenodo.org/records/15788188](https://zenodo.org/records/15788188)
-
-* Brencher, G. et. al. (In Review) Quantifying degradation of the Imja Lake moraine dam with fused InSAR and SAR feature tracking time series. The Cryosphere. [https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3196/](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3196/)
 
 * Brencher, G. et. al. (2024) Removing Atmospheric Noise from InSAR Interferograms in Mountainous Regions with a Convolutional Neural Network. Computers and Geosciences. [10.1016/j.cageo.2024.105771](https://doi.org/10.1016/j.cageo.2024.105771)
 
@@ -18,6 +18,8 @@ This is a chronological list of published peer-reviewed journal articles I've ei
 * Cheng, W. et. al. (2024) Machine learning based lightning parameterizations for CONUS. Artificial Intelligence for the Earth Systems. [doi:10.1175/AIES-D-23-0024.1](https://doi.org/10.1175/AIES-D-23-0024.1)
 
 * Gagliano, E. et. al (2023) Capturing the Onset of Mountain Snowmelt Runoff Using Satellite Synthetic Aperture Radar. Geophysical Research Letters. [doi:10.1029/2023GL105303](https://doi.org/10.1029/2023GL105303)
+
+* Scheick et al., (2023). icepyx: querying, obtaining, analyzing, and manipulating ICESat-2 datasets. Journal of Open Source Software, 8(84), 4912, [https://doi.org/10.21105/joss.04912](https://doi.org/10.21105/joss.04912)
 
 * Krauss, Z. et. al. (2023) Seismology in the cloud for template matching and machine-learning earthquake detection. Seismica. [doi:10.26443/seismica.v2i2.979](http://dx.doi.org/10.26443/seismica.v2i2.979)
 
