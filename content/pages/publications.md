@@ -1,9 +1,15 @@
 Title: Publications
 URL: ../
-Date: 2026-01-07
+Date: 2026-05-14
 Category: Research
 
 This is a chronological list of published peer-reviewed journal articles I've either authored or co-authored:
+
+* Gagliano et al (In Revision). "A global high-resolution dataset of snowmelt runoff onset timing from Sentinel-1 SAR, 2015-2024" Earth System Science Data. [Preprint](https://doi.org/10.5194/essd-2026-216)
+
+* Brencher G., Shean D., Henderson S., Gagliano E. (In Revision). “Accurate snow depth predictions across the Western U.S. using a deep learning model trained on 7 years of airborne lidar snow depth measurements.” Remote Sensing of the Environment. [Preprint](http://dx.doi.org/10.2139/ssrn.6557436)
+
+* Flynn I et al., (2026). "Satellite Data Synergy for Volcano Monitoring: The 2022 Mauna Loa Eruption." Journal of Volcanology and Geothermal Research. [https://doi.org/10.1016/j.jvolgeores.2026.108603](https://doi.org/10.1016/j.jvolgeores.2026.108603)
 
 * Brencher, G., Henderson, S. T., and Shean, D. E. (2026): Quantifying degradation of the Imja Lake moraine dam with fused InSAR and SAR feature tracking time series, The Cryosphere, 20, 67–86,[https://doi.org/10.5194/tc-20-67-2026/](https://doi.org/10.5194/tc-20-67-2026)
 
